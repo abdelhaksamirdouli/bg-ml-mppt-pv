@@ -5,7 +5,7 @@
 Abdelhak Samir Douli, Abd Essalam Badoud, Belkacem Ould Bouamama, Mahdi Boukerdja
 *LAS, Université Sétif 1 (Algeria) · CRIStAL UMR 9189, Université de Lille (France)*
 
-📄 Accepted in **Energies (MDPI)** · DOI: _to be added_ <!-- TODO: add DOI link once online -->
+📄 Accepted in **Energies (MDPI)**, 2026 · DOI coming soon <!-- TODO: add DOI link once online -->
 
 ---
 
@@ -49,7 +49,11 @@ Three scenarios were tested: temperature ramps, irradiance ramps, and a daily-sh
 
 * Results come from simulation on compressed time scales, with uniform irradiance.
 * The reference MPP is exact for the single-diode model, but it is not a physical ground truth.
-* Hardware-in-the-loop and experimental validation are the next steps. The HIL methodology is already applied to fuel cells in [pemfc-ml-mppt-hil](https://github.com/abdelhaksamirdouli/pemfc-ml-mppt-hil).
+* Hardware-in-the-loop and experimental validation are the next steps.
+
+## Related work
+
+* [pv-ml-mppt](https://github.com/abdelhaksamirdouli/pv-ml-mppt): the first version of this framework, published in *Results in Engineering* (2025).
 
 ## Tools
 
